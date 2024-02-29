@@ -1,5 +1,6 @@
 // Array Rotation
 #include<stdio.h>
+#include<assert.h>
 int a[1000][1000],n;
 int rotate(int);
 int main()
